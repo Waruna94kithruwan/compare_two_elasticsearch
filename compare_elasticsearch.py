@@ -3,9 +3,9 @@ import urllib3
 from elasticsearch import Elasticsearch
 
 # Edit this section
-ELASTIC_01 = "http://172.24.36.204:9200"
-# Compare with below Elastic search instance
-ELASTIC_02 = "http://172.24.36.216:9200"
+ELASTIC_01 = ""
+# Compare with below "Elasticsearch" instance
+ELASTIC_02 = ""
 
 MATCHES = ""
 MISSEDMATCH = ""
